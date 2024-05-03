@@ -1,0 +1,27 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#loader_image_checkout img {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.dpad_discount_message span {
+    font-size: 16px;
+    padding: 10px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+span.free-product {
+    background: dodgerblue;
+    color: #fff;
+    padding: 0px 5px 2px;
+    border-radius: 5px;
+}
+.dpad_variation{
+    display: none;
+}

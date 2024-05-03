@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+	table#tbl-product-fee tr td input#product_dpad_conditions_values {
+		width: 20em;
+	}
+}
+@media screen and (max-width: 1300px){
+	.wdpad-main-table{
+		float: none;
+    	width: 100%;
+	}
+	.dotstore_plugin_sidebar {
+    	max-width: 100%;
+    	margin-left: 20px;
+    	text-align: center;
+	}	
+}
+@media screen and (max-width: 980px) {
+	.dots-header-right .logo-detail strong {
+		font-size: 28PX;
+	}
+
+	.under-table table.table-outer tr td.ur-2 a {
+		margin-bottom: 20px;
+	}
+
+	.under-table table.table-outer tr td.ur-2 a {
+		margin-bottom: 20px;
+	}
+
+	.set h2 {
+		margin-top: 0;
+	}
+
+	.set-right {
+		width: 100%;
+		float: left;
+		text-align: left;
+		margin-top: 20px;
+	}
+
+	.search {
+		float: none;
+	}
+
+    .fees-pricing-rules .fees_pricing_rules{display:grid;}
+	.fees-pricing-rules .fees_pricing_rules .tabs{display:none;}
+	.fees-pricing-rules .fees_pricing_rules .fees_pricing_rules_tab_content{display:block;width:100%;}
+	.fees-pricing-rules .fees_pricing_rules .tab-content{display:block;}
+	.fees-pricing-rules .fees_pricing_rules .tab-content:before{background-color:#ccc;color:#fff;border-top:1px solid rgba(40,44,42,0.1);margin:0;padding:10px 20px;display:block;cursor:pointer;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;content:attr(data-title);font-weight:500;}
+	.fees-pricing-rules .fees_pricing_rules .tab-content.current:before{color:#fff;background-color:var(--dotstore-primary);}
+	.fees-pricing-rules .fees_pricing_rules .tab-content.current .tap-class{display:block;}
+	.fees-pricing-rules .fees_pricing_rules .tab-content .tap-class{display:none;}
+	#dotsstoremain .wdpad-main-table.res-cl .advance_pricing_rule_box table tr.heading{display:none;}
+	#dotsstoremain .wdpad-main-table.res-cl .advance_pricing_rule_box table td{display:block;width:100%!important;margin:0 auto;padding:15px 15px 0!important;text-align:center;}
+	#dotsstoremain .wdpad-main-table.res-cl .advance_pricing_rule_box table td input{width:85%;margin:0 auto;}
+	#dotsstoremain .wdpad-main-table.res-cl .advance_pricing_rule_box table td input[type="checkbox"]{width:18px;margin:-2px 3px 0 0;}
+	#dotsstoremain .wdpad-main-table.res-cl .advance_pricing_rule_box table td a.delete-row{padding:3px 8px;display:inline-block;margin-bottom:10px;}
+}
+
+@media screen and (max-width: 768px) {
+	.logo-main {
+		display: block;
+		width: 100%;
+		box-sizing: border-box;
+	}
+
+	.dots-header-right .logo-detail {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.dots-header-right .update-blog {
+		float: left;
+		margin-left: 20px;
+	}
+
+	.menu-main ul li a {
+		padding-left: 17px;
+		padding-right: 17px;
+	}
+
+	.wdpad-main-table table.table-outer tr td.fr-2 a.ab {
+		margin-top: 20px;
+	}
+
+	.under-table table.table-outer tr td.ur-2 p.block.bl {
+		margin-left: 26px;
+	}
+
+	.under-table table.table-outer tr td.ur-2 input#submit {
+		width: 27% !important;
+	}
+
+	.foot-rihgt {
+		float: left;
+		margin-top: 20px;
+		width: 100%;
+	}
+
+	.under-table table.table-outer tr td.ur-2 select {
+		width: 100%;
+	}
+
+	.set input#submit {
+		width: 24% !important;
+	}
+}
+
+@media screen and (max-width: 559px) {
+	.dots-header-right .logo-detail strong {
+		font-size: 24PX;
+	}
+
+	.menu-main ul li {
+		width: 100% !important;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.wdpad-main-table.none-blog {
+		border-right: 1px solid #ddd;
+	}
+
+	.wdpad-main-table.res-cl table.table-outer tr td {
+		font-size: 15px;
+		padding: 20px;
+		display: inline-block;
+		width: 100%;
+	}
+	.wdpad-main-table.res-cl table.table-outer tr td:not(:first-child) {
+		padding-top:0;
+	}
+
+	.wdpad-main-table.res-cl table.table-outer tr td.fr-1 {
+		width: 100%;
+		border-bottom: none;
+	}
+
+	.wdpad-main-table.res-cl td.fr-2 {
+		border-top: none !important;
+	}
+
+	.wdpad-main-table table.table-outer tr td.fr-2 a.gb {
+		margin-right: 0;
+	}
+
+	.wdpad-main-table.res-cl table.table-outer tr td.fr-2 a.cb {
+		margin-top: 20px;
+	}
+
+	.search {
+		margin-top: 20px;
+	}
+
+	.under-table table.table-outer tr td.ur-1 {
+		width: 85%;
+		border-bottom: none;
+	}
+
+	.under-table table.table-outer tr td {
+		width: 85%;
+		display: block;
+	}
+
+	.wdpad-main-table table.table-outer tr td.fr-2 a {
+		padding-right: 10px;
+		padding-left: 0;
+	}
+
+	.under-table table.table-outer tr td.ur-2 {
+		border-top: none;
+	}
+
+}

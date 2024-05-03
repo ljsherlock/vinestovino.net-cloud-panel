@@ -1,0 +1,13 @@
+{
+    "name": "sherlock/vinestovino",
+    "description": "vinestovino website",
+    "require": {
+        "bacon/bacon-qr-code": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "ljsherlock",
+            "email": "lewis@ljsherlock.com"
+        }
+    ]
+}

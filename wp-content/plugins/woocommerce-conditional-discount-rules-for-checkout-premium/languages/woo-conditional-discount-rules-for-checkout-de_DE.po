@@ -1,0 +1,2588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Conditional Discount Rules For WooCommerce Checkout\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-09-06 06:18:54+00:00\n"
+"PO-Revision-Date: 2023-09-11 11:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: woo-conditional-discount-rules-for-checkout\n"
+
+#: admin/partials/wcdrfc-pro-information-page.php:28
+msgid " to view license and terms of use."
+msgstr ""
+
+#: woo-conditional-discount-rules-for-checkout.php:431
+msgid "%1$s requires %2$s to be installed & activated!"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:394
+msgid "%s at %s"
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:112
+msgid "%s has been added to your cart."
+msgid_plural "%s have been added to your cart."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Attribute name.
+#: public/class-woocommerce-dynamic-pricing-and-discount-public.php:5447
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/includes/wc-cart-functions.php:306
+msgid "(includes %s)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:768
+#: admin/partials/wcdrfc-pro-add-new-page.php:859
+#: admin/partials/wcdrfc-pro-add-new-page.php:1578
+#: admin/partials/wcdrfc-pro-add-new-page.php:1732
+#: admin/partials/wcdrfc-pro-add-new-page.php:1890
+#: admin/partials/wcdrfc-pro-add-new-page.php:2048
+#: admin/partials/wcdrfc-pro-add-new-page.php:2209
+#: admin/partials/wcdrfc-pro-add-new-page.php:2378
+#: admin/partials/wcdrfc-pro-add-new-page.php:2538
+#: admin/partials/wcdrfc-pro-add-new-page.php:2691
+#: admin/partials/wcdrfc-pro-add-new-page.php:2842
+#: admin/partials/wcdrfc-pro-add-new-page.php:3002
+msgid "+ Add Rule"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:630
+msgid "-"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:172
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:197
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:222
+msgid "0.00"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:23
+msgid "01"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:28
+msgid "02"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:33
+msgid "03"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:173
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:198
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:223
+msgid "10"
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:279
+msgid "[Remove]"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1774
+#: admin/partials/wcdrfc-pro-add-new-page.php:1932
+#: admin/partials/wcdrfc-pro-add-new-page.php:2090
+#: admin/partials/wcdrfc-pro-add-new-page.php:2251
+#: admin/partials/wcdrfc-pro-add-new-page.php:2421
+#: admin/partials/wcdrfc-pro-add-new-page.php:2579
+#: admin/partials/wcdrfc-pro-add-new-page.php:2733
+#: admin/partials/wcdrfc-pro-add-new-page.php:2886
+#: admin/partials/wcdrfc-pro-add-new-page.php:3048
+msgid ""
+"A fixed amount (e.g. 5 / -5) percentage (e.g. 5% / -5%) to add as a discount."
+" Percentage and minus amount will apply based on cart subtotal."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1620
+msgid ""
+"A fixed amount (e.g. 5 / -5), percentage (e.g. 5% / -5%) to add as a "
+"discount. Percentage and minus amount will apply based on cart subtotal."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:161
+msgid "About"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:167
+msgid "Account"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:790
+msgid "Action"
+msgstr ""
+
+#: woo-conditional-discount-rules-for-checkout.php:162
+msgid "Activate Plugin"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:38
+msgid "Add Conditional Discount Rules"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:40
+msgid ""
+"Add Conditional Discount Rules title, discount value and set Conditional "
+"Discount Rules as per your requirement."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-list-page.php:874
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:818
+#: admin/partials/wcdrfc-pro-add-new-page.php:819
+#: admin/partials/wcdrfc-pro-add-new-page.php:838
+msgid "Add Qty."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:416
+msgid "Adjustment"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:502
+msgid "Adjustment value"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:423
+msgid "Advance settings"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1526
+msgid "Advanced Discount Price Rules"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:870
+#: admin/partials/wcdrfc-pro-add-new-page.php:1596
+#: admin/partials/wcdrfc-pro-add-new-page.php:1751
+#: admin/partials/wcdrfc-pro-add-new-page.php:1908
+#: admin/partials/wcdrfc-pro-add-new-page.php:2066
+#: admin/partials/wcdrfc-pro-add-new-page.php:2228
+#: admin/partials/wcdrfc-pro-add-new-page.php:2397
+#: admin/partials/wcdrfc-pro-add-new-page.php:2556
+#: admin/partials/wcdrfc-pro-add-new-page.php:2710
+#: admin/partials/wcdrfc-pro-add-new-page.php:2863
+#: admin/partials/wcdrfc-pro-add-new-page.php:3024
+msgid "All"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:47
+msgid "All Conditional Discount Rules display here. As per below screenshot"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:51
+msgid "All same rule combine"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:139
+#: admin/partials/wcdrfc-pro-add-new-page.php:1680
+#: admin/partials/wcdrfc-pro-add-new-page.php:1840
+#: admin/partials/wcdrfc-pro-add-new-page.php:1994
+#: admin/partials/wcdrfc-pro-add-new-page.php:2156
+#: admin/partials/wcdrfc-pro-add-new-page.php:2320
+#: admin/partials/wcdrfc-pro-add-new-page.php:2485
+#: admin/partials/wcdrfc-pro-add-new-page.php:2636
+#: admin/partials/wcdrfc-pro-add-new-page.php:2789
+#: admin/partials/wcdrfc-pro-add-new-page.php:2947
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:3115
+msgid "amount"
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:137
+msgid "and"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:869
+#: admin/partials/wcdrfc-pro-add-new-page.php:1594
+#: admin/partials/wcdrfc-pro-add-new-page.php:1749
+#: admin/partials/wcdrfc-pro-add-new-page.php:1906
+#: admin/partials/wcdrfc-pro-add-new-page.php:2064
+#: admin/partials/wcdrfc-pro-add-new-page.php:2226
+#: admin/partials/wcdrfc-pro-add-new-page.php:2395
+#: admin/partials/wcdrfc-pro-add-new-page.php:2554
+#: admin/partials/wcdrfc-pro-add-new-page.php:2708
+#: admin/partials/wcdrfc-pro-add-new-page.php:2861
+#: admin/partials/wcdrfc-pro-add-new-page.php:3022
+msgid "Any One"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:34
+msgid "Apply Adjustment Discount"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:36
+#: admin/partials/wcdrfc-general-settings.php:39
+msgid "Apply Adjustment Discount (In Pro)"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:70
+msgid "Apply all same rule sequentially"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:72
+#: admin/partials/wcdrfc-general-settings.php:75
+msgid "Apply all same rule sequentially (In Pro)"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:146
+msgid "Apply on Products"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:447
+msgid "Apply Per Quantity"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:448
+msgid "Apply this discount per quantity of products."
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:91
+msgid "Astra"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:740
+msgid "Background Color"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:101
+msgid "Be our friend on"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:867
+#: admin/partials/wcdrfc-pro-add-new-page.php:1589
+#: admin/partials/wcdrfc-pro-add-new-page.php:1743
+#: admin/partials/wcdrfc-pro-add-new-page.php:1901
+#: admin/partials/wcdrfc-pro-add-new-page.php:2059
+#: admin/partials/wcdrfc-pro-add-new-page.php:2220
+#: admin/partials/wcdrfc-pro-add-new-page.php:2389
+#: admin/partials/wcdrfc-pro-add-new-page.php:2549
+#: admin/partials/wcdrfc-pro-add-new-page.php:2702
+#: admin/partials/wcdrfc-pro-add-new-page.php:2855
+#: admin/partials/wcdrfc-pro-add-new-page.php:3015
+msgid "below"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:29
+msgid "Better Sales"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:49
+msgid "Biggest discount only"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:2188
+msgid "Blank .json file uploaded."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:415
+msgid "BOGO (Buy 1 Get 1 Free)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:766
+msgid "BOGO Discount"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:25
+msgid ""
+"Boost your online revenue and client acquisition rates by creating strategic "
+"discounts."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:777
+msgid "Buy 1 get 1, Buy 2 get 2, Buy 3 get 3 and so on..."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:779
+msgid "Buy 2, get 1 free (a.k.a: Buy 1 get 1 free)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:787
+msgid "Buy Max. Qty."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:786
+msgid "Buy Min. Qty."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:147
+msgid "Buy One, Get One Discount!"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:785
+msgid "Buy Products"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:780
+msgid "Buy qty(2-3) and get qty 1,"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:781
+msgid "Buy qty(4-5) and get qty 2, so on..."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:776
+msgid "Buy X Get X:"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:778
+msgid "Buy X Get Y:"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:457
+msgid "Calculate Quantity Based On"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:461
+msgid "Cart Based"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:130
+#: admin/partials/wcdrfc-pro-add-new-page.php:2608
+msgid "Cart Qty"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:925
+#: admin/partials/wcdrfc-pro-add-new-page.php:1131
+#: admin/partials/wcdrfc-pro-add-new-page.php:1350
+#: admin/partials/wcdrfc-pro-add-new-page.php:1415
+#: admin/partials/wcdrfc-pro-add-new-page.php:1480
+msgid "Cart Specific"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1236
+msgid "Cart Specific "
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:136
+#: admin/partials/wcdrfc-pro-add-new-page.php:1136
+#: admin/partials/wcdrfc-pro-add-new-page.php:1241
+#: admin/partials/wcdrfc-pro-add-new-page.php:2917
+msgid "Cart Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1420
+#: admin/partials/wcdrfc-pro-add-new-page.php:1485
+msgid "Cart Subtotal "
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:931
+#: admin/partials/wcdrfc-pro-add-new-page.php:1356
+msgid "Cart Subtotal (After Discount) "
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1137
+#: admin/partials/wcdrfc-pro-add-new-page.php:1242
+#: admin/partials/wcdrfc-pro-add-new-page.php:1421
+#: admin/partials/wcdrfc-pro-add-new-page.php:1486
+msgid "Cart Subtotal (After Discount) (Available in PRO) "
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:930
+#: admin/partials/wcdrfc-pro-add-new-page.php:1355
+msgid "Cart Subtotal (Before Discount) "
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:133
+#: admin/partials/wcdrfc-pro-add-new-page.php:2763
+msgid "Cart Weight"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:529
+#: admin/partials/wcdrfc-pro-add-new-page.php:909
+#: admin/partials/wcdrfc-pro-add-new-page.php:1115
+#: admin/partials/wcdrfc-pro-add-new-page.php:1220
+#: admin/partials/wcdrfc-pro-add-new-page.php:1334
+#: admin/partials/wcdrfc-pro-add-new-page.php:1399
+#: admin/partials/wcdrfc-pro-add-new-page.php:1464
+#: admin/partials/wcdrfc-pro-add-new-page.php:2077
+#: admin/partials/wcdrfc-pro-add-new-page.php:2408
+msgid "Category"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2203
+#: admin/partials/wcdrfc-pro-add-new-page.php:2239
+msgid "Category Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:241
+msgid ""
+"Celebrate the holidays with us! Enjoy a jolly 25% discount on all products "
+"from Christmas to New Year."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:175
+msgid ""
+"Charge Discounts from the customers for choosing a specific payment gateway "
+"based on the order amount."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:789
+msgid "Choose free item quantity"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:785
+msgid "Choose on which products the BOGO discount should be applied"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:788
+msgid "Choose products which will added to cart as free"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:901
+#: admin/partials/wcdrfc-pro-add-new-page.php:1326
+msgid "City"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1107
+#: admin/partials/wcdrfc-pro-add-new-page.php:1212
+#: admin/partials/wcdrfc-pro-add-new-page.php:1391
+#: admin/partials/wcdrfc-pro-add-new-page.php:1456
+msgid "City (Available in PRO)"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:157
+msgid ""
+"City 1\n"
+"City 2"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:28
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:50
+#: admin/partials/wcdrfc-upgrade-dashboard.php:76
+#: admin/partials/wcdrfc-upgrade-dashboard.php:102
+#: admin/partials/wcdrfc-upgrade-dashboard.php:128
+#: admin/partials/wcdrfc-upgrade-dashboard.php:154
+#: admin/partials/wcdrfc-upgrade-dashboard.php:180
+#: admin/partials/wcdrfc-upgrade-dashboard.php:207
+#: admin/partials/wcdrfc-upgrade-dashboard.php:233
+#: admin/partials/wcdrfc-upgrade-dashboard.php:259
+msgid "Close"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1233
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1234
+#: admin/partials/wcdrfc-upgrade-dashboard.php:43
+msgid "Conditional Discount Rule"
+msgstr ""
+
+#: woo-conditional-discount-rules-for-checkout.php:425
+msgid "Conditional Discount Rules For WooCommerce Checkout "
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:28
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:56
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:69
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:114
+msgid "Continue"
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:117
+msgid "Continue Shopping"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:152
+#: admin/partials/wcdrfc-pro-add-new-page.php:836
+msgid "Copy buy products"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1542
+#: admin/partials/wcdrfc-pro-add-new-page.php:2036
+#: admin/partials/wcdrfc-pro-add-new-page.php:2046
+msgid "Cost on Category"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1543
+#: admin/partials/wcdrfc-pro-add-new-page.php:2198
+#: admin/partials/wcdrfc-pro-add-new-page.php:2207
+msgid "Cost on Category Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1544
+#: admin/partials/wcdrfc-pro-add-new-page.php:2364
+#: admin/partials/wcdrfc-pro-add-new-page.php:2376
+msgid "Cost on Category Weight"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1539
+#: admin/partials/wcdrfc-pro-add-new-page.php:1570
+#: admin/partials/wcdrfc-pro-add-new-page.php:1576
+msgid "Cost on Product"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1540
+#: admin/partials/wcdrfc-pro-add-new-page.php:1721
+#: admin/partials/wcdrfc-pro-add-new-page.php:1730
+msgid "Cost on Product Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1541
+#: admin/partials/wcdrfc-pro-add-new-page.php:1882
+#: admin/partials/wcdrfc-pro-add-new-page.php:1888
+msgid "Cost on Product Weight"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1548
+#: admin/partials/wcdrfc-pro-add-new-page.php:2990
+#: admin/partials/wcdrfc-pro-add-new-page.php:3000
+msgid "Cost on Shipping Class Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1545
+#: admin/partials/wcdrfc-pro-add-new-page.php:2528
+#: admin/partials/wcdrfc-pro-add-new-page.php:2536
+msgid "Cost on Total Cart Qty"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1547
+#: admin/partials/wcdrfc-pro-add-new-page.php:2831
+#: admin/partials/wcdrfc-pro-add-new-page.php:2840
+msgid "Cost on Total Cart Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1546
+#: admin/partials/wcdrfc-pro-add-new-page.php:2680
+#: admin/partials/wcdrfc-pro-add-new-page.php:2689
+msgid "Cost on Total Cart Weight"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:900
+#: admin/partials/wcdrfc-pro-add-new-page.php:1106
+#: admin/partials/wcdrfc-pro-add-new-page.php:1211
+#: admin/partials/wcdrfc-pro-add-new-page.php:1325
+#: admin/partials/wcdrfc-pro-add-new-page.php:1390
+#: admin/partials/wcdrfc-pro-add-new-page.php:1455
+msgid "Country"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:934
+#: admin/partials/wcdrfc-pro-add-new-page.php:1359
+msgid "Coupon"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1140
+#: admin/partials/wcdrfc-pro-add-new-page.php:1245
+#: admin/partials/wcdrfc-pro-add-new-page.php:1424
+#: admin/partials/wcdrfc-pro-add-new-page.php:1489
+msgid "Coupon (Available in PRO)"
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:243
+msgid "Coupon:"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:188
+msgid ""
+"Customize charges based on payment type: %d%% fee for payments made through "
+"credit cards."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:118
+#: admin/partials/header/plugin-header.php:123
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1987
+msgid "Data has been Exported!"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:2191
+msgid "Data has been Imported!"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:56
+msgid "Date"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:641
+msgid "Days of the Week"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:129
+#: admin/partials/class-wc-discount-rules-table.php:231
+#: admin/partials/class-wc-discount-rules-table.php:410
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:408
+msgid "Disable"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:52
+msgid "Discount"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1619
+#: admin/partials/wcdrfc-pro-add-new-page.php:1773
+#: admin/partials/wcdrfc-pro-add-new-page.php:1931
+#: admin/partials/wcdrfc-pro-add-new-page.php:2089
+#: admin/partials/wcdrfc-pro-add-new-page.php:2250
+#: admin/partials/wcdrfc-pro-add-new-page.php:2420
+#: admin/partials/wcdrfc-pro-add-new-page.php:2578
+#: admin/partials/wcdrfc-pro-add-new-page.php:2732
+#: admin/partials/wcdrfc-pro-add-new-page.php:2885
+#: admin/partials/wcdrfc-pro-add-new-page.php:3047
+msgid "Discount Amount"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:370
+msgid "Discount Configuration"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:724
+msgid "Discount message"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1602
+msgid "Discount rule has been created."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1606
+msgid "Discount rule has been deleted."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1610
+msgid "Discount rule has been disabled."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1608
+msgid "Discount rule has been duplicated."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1612
+msgid "Discount rule has been enabled."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1594
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1604
+msgid "Discount rule has been updated."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:390
+msgid "Discount rule title"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-list-page.php:871
+msgid "Discount Rules"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:857
+msgid "Discount Rules for checkout"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1667
+msgid "Discount status has been disabled successfully."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1664
+msgid "Discount status has been enabled successfully."
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:541
+msgid "Discount title"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:51
+msgid "Discount Type"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:429
+msgid "Discount value"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:252
+msgid "Discounts Based on Product Quantity"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:714
+msgid ""
+"Display discount message on product details page above add to cart button"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:89
+msgid "Do the Woo"
+msgstr ""
+
+#: includes/class-woocommerce-dynamic-pricing-and-discount.php:304
+msgid "Docs"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:959
+msgid "Domain ( @gmail.com )"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:118
+msgid "Done"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:254
+msgid "DotStore Plugins"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:232
+msgid "Duplicate"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:189
+msgid ""
+"Easily apply a processing fee for cheque payments: a $5 fee per transaction."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:45
+msgid ""
+"Easily apply bulk discounts based on product type, attribute, or category. "
+"Boost sales store-wide with customizable offers."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:137
+msgid ""
+"Easy to apply user-specific percentage fees: a %d%% fee for shop managers or "
+"a %d%% fee for members."
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:230
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:265
+msgid ""
+"Elevate your shopping experience with our range-based quantity discount "
+"feature. Discounts that automatically adjust based on product quantities"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:960
+msgid "Email Address"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:239
+msgid ""
+"Embrace the moment with our time-based discount! For a limited period, enjoy "
+"special savings on select products."
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:409
+msgid "Enable"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:713
+msgid "Enable discount message"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:675
+msgid "Enable for first order"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:686
+msgid "Enable for logged in user"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:54
+msgid "End Date"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:606
+msgid "End date"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:48
+msgid "English, Spanish"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:242
+msgid ""
+"Enjoy a fantastic 20% discount on all products. This special offer is "
+"available for the next 24 hours"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:111
+msgid ""
+"Enjoy a generous $50 discount on all orders. Simply log in as a customer, "
+"and the discount will be automatically applied at checkout. "
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:110
+msgid ""
+"Enjoy an exclusive $20 discount on all your orders. Simply log in as a "
+"Vendor, and the discount will be automatically applied at checkout."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:186
+msgid ""
+"Enjoy exclusive discounts based on your preferred payment method! Choose "
+"from a variety of payment options, and you'll automatically receive special "
+"savings at checkout."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:228
+msgid ""
+"Enjoy exclusive savings during specified periods. Shop now and take "
+"advantage of limited-time offers."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:254
+msgid ""
+"Enjoy tailored savings with our range-based product quantities, weight and "
+"subtotal discount feature."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:396
+msgid "Enter product discount title"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:350
+#: admin/partials/wcdrfc-pro-add-new-page.php:358
+#: admin/partials/wcdrfc-pro-add-new-page.php:949
+#: admin/partials/wcdrfc-pro-add-new-page.php:964
+#: admin/partials/wcdrfc-pro-add-new-page.php:1155
+#: admin/partials/wcdrfc-pro-add-new-page.php:1165
+#: admin/partials/wcdrfc-pro-add-new-page.php:1260
+#: admin/partials/wcdrfc-pro-add-new-page.php:1270
+#: admin/partials/wcdrfc-pro-add-new-page.php:1373
+#: admin/partials/wcdrfc-pro-add-new-page.php:1438
+#: admin/partials/wcdrfc-pro-add-new-page.php:1503
+msgid "Equal to ( = )"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-list-page.php:784
+msgid "Error saving discount rule."
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:305
+msgid "estimated for %s"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:361
+#: admin/partials/class-wc-discount-rules-table.php:390
+msgid "Everywhere"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:775
+msgid "Example:"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:706
+msgid "Exclude"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:213
+msgid ""
+"Experience dynamic shopping with our custom pricing feature! Modify product "
+"prices based on specific conditions, ensuring you always get the best deal"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:216
+msgid ""
+"Experience unbeatable savings on our premium product! If you're in India, "
+"enjoy a special 30% discount on those product applied automatically at "
+"checkout."
+msgstr ""
+
+#: admin/partials/wcdrfc-import-export-setting__premium_only.php:22
+msgid "Export"
+msgstr ""
+
+#: admin/partials/wcdrfc-import-export-setting__premium_only.php:15
+msgid "Export Discount Rules"
+msgstr ""
+
+#: admin/partials/wcdrfc-import-export-setting__premium_only.php:27
+msgid ""
+"Export the discount rules settings for this site as a .json file. This "
+"allows you to easily import the configuration into another site."
+msgstr ""
+
+#: public/class-woocommerce-dynamic-pricing-and-discount-public.php:251
+msgid "Fee"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:48
+#: admin/partials/wcdrfc-general-settings.php:56
+#: admin/partials/wcdrfc-general-settings.php:61
+msgid "First rule matched"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:409
+msgid "Fixed"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:482
+msgid ""
+"For example, if a user adds 3 items and you've set a $10 discount with a $5 "
+"discount for each additional item, the total extra discount would be = "
+"$10+$5+$5 = $20. <br/><br/> The quantity calculation depends on your choice "
+"in the \"Calculate Quantity Based On\" dropdown. If you choose \"Product "
+"Based,\" quantities are calculated based on products that meet the discount "
+"conditions. If there are more than 1 such product in the cart, the discount "
+"applies only to the additional quantities. For instance, if there are 5 "
+"items in the cart and 3 qualify for the discount, the additional discount of "
+"$5 applies to 2 items, not all 5."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:2263
+#: public/class-woocommerce-dynamic-pricing-and-discount-public.php:1502
+#: public/class-woocommerce-dynamic-pricing-and-discount-public.php:1552
+msgid "Free"
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:274
+msgid "Free shipping coupon"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:660
+msgid "Friday"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1614
+msgid "General setting has been saved."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:151
+#: admin/partials/wcdrfc-general-settings.php:26
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:24
+msgid "Generate revenue"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:85
+msgid ""
+"Get an extra discount as customers from \"Gujarat\" state. Select Gujarat as "
+"your shipping state at checkout, and our system will automatically apply "
+"exclusive discounted prices."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:536
+msgid "Get Category"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:788
+msgid "Get Free Products"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:789
+msgid "Get Free Qty."
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:39
+msgid ""
+"Get improved features and faster fixes by sharing non-sensitive data via "
+"usage-tracking. This will help us make the plugin more compatible with your "
+"site. No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:568
+msgid "Get Product"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:10
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:19
+msgid "Go Premium to Increase Profitability"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:353
+#: admin/partials/wcdrfc-pro-add-new-page.php:952
+#: admin/partials/wcdrfc-pro-add-new-page.php:1159
+#: admin/partials/wcdrfc-pro-add-new-page.php:1264
+msgid "Greater or Equal to ( >= )"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:354
+#: admin/partials/wcdrfc-pro-add-new-page.php:953
+#: admin/partials/wcdrfc-pro-add-new-page.php:1160
+#: admin/partials/wcdrfc-pro-add-new-page.php:1265
+msgid "Greater than ( > )"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:39
+msgid "Guide Documentation"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:38
+msgid "Help"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:32
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:38
+msgid "Help us build a better \"Discount Rules\" Plugin!"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:215
+msgid ""
+"If \"Product 1\" is in the cart then \"Product 2\" will get 60% discount on "
+"price."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1531
+msgid ""
+"If enabled this Advanced Pricing button only than below all rule's will go "
+"for apply to discount rule"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1688
+#: admin/partials/wcdrfc-pro-add-new-page.php:1849
+#: admin/partials/wcdrfc-pro-add-new-page.php:2003
+#: admin/partials/wcdrfc-pro-add-new-page.php:2165
+#: admin/partials/wcdrfc-pro-add-new-page.php:2329
+#: admin/partials/wcdrfc-pro-add-new-page.php:2494
+#: admin/partials/wcdrfc-pro-add-new-page.php:2645
+#: admin/partials/wcdrfc-pro-add-new-page.php:2797
+#: admin/partials/wcdrfc-pro-add-new-page.php:2955
+#: admin/partials/wcdrfc-pro-add-new-page.php:3124
+msgid ""
+"If entered discount amount is less than cart subtotal it will reflect with "
+"minus sign (EX: $ -10.00) OR If entered discount amount is more than cart "
+"subtotal then the total amount shown as zero (EX: Total: 0): "
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1514
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1523
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1533
+msgid ""
+"If you like <strong>%2$s</strong> plugin, please leave us ★★★★★ ratings on "
+"<a href=\"%1$s\" target=\"_blank\">DotStore</a>."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:431
+msgid ""
+"If you select fixed discount type then : you have add fixed discount value. "
+"(Eg. 10, 20)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:431
+msgid ""
+"If you select percentage based discount type then : you have add percentage "
+"of discount (Eg. 10, 15.20)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:458
+msgid ""
+"If you want to apply the discount for each quantity - where quantity should "
+"calculated based on product/category/tag conditions, then select the "
+"\"Product Based\" option."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:458
+msgid ""
+"If you want to apply the discount for each quantity in the customer's cart, "
+"then select the \"Cart Based\" option."
+msgstr ""
+
+#: admin/partials/wcdrfc-import-export-setting__premium_only.php:46
+msgid "Import"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:156
+msgid "Import / Export"
+msgstr ""
+
+#: admin/partials/wcdrfc-import-export-setting__premium_only.php:9
+msgid "Import / Export Settings"
+msgstr ""
+
+#: admin/partials/wcdrfc-import-export-setting__premium_only.php:36
+msgid "Import Discount Rules"
+msgstr ""
+
+#: admin/partials/wcdrfc-import-export-setting__premium_only.php:51
+msgid ""
+"Import the discount rules settings from a .json file. This file can be "
+"obtained by exporting the settings on another site using the form above."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:705
+msgid "Include"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:34
+msgid "Increase conversions"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:22
+msgid "Installed Version"
+msgstr ""
+
+#. translators: %s: Attribute name.
+#: public/class-woocommerce-dynamic-pricing-and-discount-public.php:5437
+msgid "Invalid value posted for %s"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:34
+msgid ""
+"It is a valuable tool for store owners for set dynamic product new price and "
+"special discount offer for the customer."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:108
+msgid ""
+"It is easy to apply charges based on customer types. Set different delivery "
+"charges for consumers, sellers, shop managers, and premium customers."
+msgstr ""
+
+#: includes/class-woocommerce-dynamic-pricing-and-discount-freemius-api.php:52
+#: includes/class-woocommerce-dynamic-pricing-and-discount-freemius-api.php:76
+#: includes/class-woocommerce-dynamic-pricing-and-discount-freemius-api.php:101
+msgid "It looks like the API connection failed."
+msgstr ""
+
+#: includes/class-woocommerce-dynamic-pricing-and-discount-freemius-api.php:64
+msgid "It looks like the license activation failed."
+msgstr ""
+
+#: includes/class-woocommerce-dynamic-pricing-and-discount-freemius-api.php:89
+msgid "It looks like the license deactivation failed."
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:107
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:922
+#: admin/partials/wcdrfc-pro-add-new-page.php:1345
+msgid "Last order spent"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1126
+#: admin/partials/wcdrfc-pro-add-new-page.php:1231
+#: admin/partials/wcdrfc-pro-add-new-page.php:1410
+#: admin/partials/wcdrfc-pro-add-new-page.php:1475
+msgid "Last order spent (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:86
+msgid "LearnWoo"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:351
+#: admin/partials/wcdrfc-pro-add-new-page.php:950
+#: admin/partials/wcdrfc-pro-add-new-page.php:1156
+#: admin/partials/wcdrfc-pro-add-new-page.php:1261
+msgid "Less or Equal to ( <= )"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:352
+#: admin/partials/wcdrfc-pro-add-new-page.php:951
+#: admin/partials/wcdrfc-pro-add-new-page.php:1158
+#: admin/partials/wcdrfc-pro-add-new-page.php:1263
+msgid "Less than ( < )"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:137
+msgid "License"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:26
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:320
+msgid "List Per Page"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:47
+msgid "Localization"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:899
+#: admin/partials/wcdrfc-pro-add-new-page.php:1105
+#: admin/partials/wcdrfc-pro-add-new-page.php:1210
+#: admin/partials/wcdrfc-pro-add-new-page.php:1324
+#: admin/partials/wcdrfc-pro-add-new-page.php:1389
+#: admin/partials/wcdrfc-pro-add-new-page.php:1454
+msgid "Location Specific"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:69
+msgid "Location-Based Discount"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:50
+msgid "Lowest discount only"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:128
+msgid "Manage Rules"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:132
+#: admin/partials/wcdrfc-pro-add-new-page.php:1672
+#: admin/partials/wcdrfc-pro-add-new-page.php:2147
+#: admin/partials/wcdrfc-pro-add-new-page.php:2574
+#: admin/partials/wcdrfc-pro-add-new-page.php:2627
+msgid "Max Quantity"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:3106
+msgid "Max quantity"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1615
+#: admin/partials/wcdrfc-pro-add-new-page.php:2085
+msgid "Max Quantity "
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:138
+#: admin/partials/wcdrfc-pro-add-new-page.php:1769
+#: admin/partials/wcdrfc-pro-add-new-page.php:1830
+#: admin/partials/wcdrfc-pro-add-new-page.php:2246
+#: admin/partials/wcdrfc-pro-add-new-page.php:2310
+#: admin/partials/wcdrfc-pro-add-new-page.php:2881
+#: admin/partials/wcdrfc-pro-add-new-page.php:2937
+msgid "Max Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:3043
+msgid "Max Subtotal "
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:135
+#: admin/partials/wcdrfc-pro-add-new-page.php:1986
+#: admin/partials/wcdrfc-pro-add-new-page.php:2477
+#: admin/partials/wcdrfc-pro-add-new-page.php:2728
+#: admin/partials/wcdrfc-pro-add-new-page.php:2781
+msgid "Max Weight"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1927
+#: admin/partials/wcdrfc-pro-add-new-page.php:2416
+msgid "Max Weight "
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:93
+msgid "Medium"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:131
+#: admin/partials/wcdrfc-pro-add-new-page.php:1664
+#: admin/partials/wcdrfc-pro-add-new-page.php:2138
+#: admin/partials/wcdrfc-pro-add-new-page.php:2618
+msgid "Min Quantity"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:3097
+msgid "Min quantity"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1611
+#: admin/partials/wcdrfc-pro-add-new-page.php:2081
+#: admin/partials/wcdrfc-pro-add-new-page.php:2570
+msgid "Min Quantity "
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:137
+#: admin/partials/wcdrfc-pro-add-new-page.php:1820
+#: admin/partials/wcdrfc-pro-add-new-page.php:2300
+#: admin/partials/wcdrfc-pro-add-new-page.php:2927
+msgid "Min Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1765
+#: admin/partials/wcdrfc-pro-add-new-page.php:2242
+#: admin/partials/wcdrfc-pro-add-new-page.php:2877
+#: admin/partials/wcdrfc-pro-add-new-page.php:3039
+msgid "Min Subtotal "
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:134
+#: admin/partials/wcdrfc-pro-add-new-page.php:1978
+#: admin/partials/wcdrfc-pro-add-new-page.php:2469
+#: admin/partials/wcdrfc-pro-add-new-page.php:2773
+msgid "Min Weight"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1923
+#: admin/partials/wcdrfc-pro-add-new-page.php:2412
+#: admin/partials/wcdrfc-pro-add-new-page.php:2724
+msgid "Min Weight "
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:202
+msgid ""
+"Modify product prices based on specific conditions, ensuring you always get "
+"the best deal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:656
+msgid "Monday"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:47
+msgid "My Account"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:302
+msgid "N/As"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:46
+msgid "Never miss an important update"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:87
+#: admin/partials/wcdrfc-general-settings.php:97
+#: admin/partials/wcdrfc-general-settings.php:107
+msgid "No"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:147
+msgid "No rule found."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:355
+#: admin/partials/wcdrfc-pro-add-new-page.php:359
+#: admin/partials/wcdrfc-pro-add-new-page.php:954
+#: admin/partials/wcdrfc-pro-add-new-page.php:965
+#: admin/partials/wcdrfc-pro-add-new-page.php:1161
+#: admin/partials/wcdrfc-pro-add-new-page.php:1166
+#: admin/partials/wcdrfc-pro-add-new-page.php:1266
+#: admin/partials/wcdrfc-pro-add-new-page.php:1271
+#: admin/partials/wcdrfc-pro-add-new-page.php:1374
+#: admin/partials/wcdrfc-pro-add-new-page.php:1439
+#: admin/partials/wcdrfc-pro-add-new-page.php:1504
+msgid "Not Equal to ( != )"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:142
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:188
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:213
+#: admin/partials/wcdrfc-pro-add-new-page.php:512
+#: admin/partials/wcdrfc-pro-add-new-page.php:1013
+#: admin/partials/wcdrfc-pro-add-new-page.php:1019
+#: admin/partials/wcdrfc-pro-add-new-page.php:1188
+#: admin/partials/wcdrfc-pro-add-new-page.php:1293
+#: admin/partials/wcdrfc-pro-add-new-page.php:1687
+#: admin/partials/wcdrfc-pro-add-new-page.php:1848
+#: admin/partials/wcdrfc-pro-add-new-page.php:2002
+#: admin/partials/wcdrfc-pro-add-new-page.php:2164
+#: admin/partials/wcdrfc-pro-add-new-page.php:2328
+#: admin/partials/wcdrfc-pro-add-new-page.php:2493
+#: admin/partials/wcdrfc-pro-add-new-page.php:2644
+#: admin/partials/wcdrfc-pro-add-new-page.php:2796
+#: admin/partials/wcdrfc-pro-add-new-page.php:2954
+#: admin/partials/wcdrfc-pro-add-new-page.php:3123
+msgid "Note: "
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:269
+msgid "null"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:921
+#: admin/partials/wcdrfc-pro-add-new-page.php:1347
+msgid "Number of orders (all time)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1128
+#: admin/partials/wcdrfc-pro-add-new-page.php:1233
+#: admin/partials/wcdrfc-pro-add-new-page.php:1412
+#: admin/partials/wcdrfc-pro-add-new-page.php:1477
+msgid "Number of orders (all time) (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:687
+msgid "Only apply when user is login into their account."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:676
+msgid "Only apply when user will place first order."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:750
+msgid "Only for specific products"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:47
+msgid ""
+"Opt-in to get email notifications for security & feature updates and to "
+"share some important WooCommerce updates. This will help us make the plugin "
+"more compatible with your version and better at doing what you need it to. "
+"No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:25
+msgid "Optimize revenue by providing attractive discounts to customers."
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:94
+msgid "Others"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:938
+#: admin/partials/wcdrfc-pro-add-new-page.php:1363
+msgid "Payment Gateway"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1144
+#: admin/partials/wcdrfc-pro-add-new-page.php:1249
+#: admin/partials/wcdrfc-pro-add-new-page.php:1428
+#: admin/partials/wcdrfc-pro-add-new-page.php:1493
+msgid "Payment Gateway (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:173
+msgid "Payment Gateway-Based Discount"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:937
+#: admin/partials/wcdrfc-pro-add-new-page.php:1143
+#: admin/partials/wcdrfc-pro-add-new-page.php:1248
+#: admin/partials/wcdrfc-pro-add-new-page.php:1362
+#: admin/partials/wcdrfc-pro-add-new-page.php:1427
+#: admin/partials/wcdrfc-pro-add-new-page.php:1492
+msgid "Payment Specific"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:410
+msgid "Percentage"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:121
+msgid "Percentage Discount On Product Quantity"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:144
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:190
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:215
+msgid "Please add Discount Rules value"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:153
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:192
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:217
+msgid "Please add discount value which will apply on cart/checkout."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:145
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:191
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:216
+msgid ""
+"Please choose atleast one product or product variation or category or tag "
+"condition"
+msgstr ""
+
+#: public/class-woocommerce-dynamic-pricing-and-discount-public.php:5405
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:170
+msgid "Please enter mail"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:151
+msgid "Please select Buy and Get product fields to save the cofiguration."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:155
+msgid "Please select get category to save the cofiguration."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:154
+msgid "Please select get product to save the cofiguration."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:2013
+msgid "Please upload a file to import"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:2019
+msgid "Please upload a valid .json file"
+msgstr ""
+
+#: includes/class-woocommerce-dynamic-pricing-and-discount-freemius-api.php:59
+msgid "Plugin has been activated!"
+msgstr ""
+
+#: includes/class-woocommerce-dynamic-pricing-and-discount-freemius-api.php:86
+msgid "Plugin has been deactivated!"
+msgstr ""
+
+#: includes/class-woocommerce-dynamic-pricing-and-discount-freemius-api.php:105
+msgid "Plugin licenses has been synced!"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:903
+#: admin/partials/wcdrfc-pro-add-new-page.php:1328
+msgid "Postcode"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1109
+#: admin/partials/wcdrfc-pro-add-new-page.php:1214
+#: admin/partials/wcdrfc-pro-add-new-page.php:1393
+#: admin/partials/wcdrfc-pro-add-new-page.php:1458
+msgid "Postcode (Available in PRO)"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:159
+msgid ""
+"Postcode 1\n"
+"Postcode 2"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:528
+#: admin/partials/wcdrfc-pro-add-new-page.php:907
+#: admin/partials/wcdrfc-pro-add-new-page.php:1113
+#: admin/partials/wcdrfc-pro-add-new-page.php:1218
+#: admin/partials/wcdrfc-pro-add-new-page.php:1332
+#: admin/partials/wcdrfc-pro-add-new-page.php:1397
+#: admin/partials/wcdrfc-pro-add-new-page.php:1462
+#: admin/partials/wcdrfc-pro-add-new-page.php:1607
+#: admin/partials/wcdrfc-pro-add-new-page.php:1919
+#: woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:200
+msgid "Product Adjustment Discount"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:462
+msgid "Product Based"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:18
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:906
+#: admin/partials/wcdrfc-pro-add-new-page.php:1112
+#: admin/partials/wcdrfc-pro-add-new-page.php:1217
+#: admin/partials/wcdrfc-pro-add-new-page.php:1331
+#: admin/partials/wcdrfc-pro-add-new-page.php:1396
+#: admin/partials/wcdrfc-pro-add-new-page.php:1461
+msgid "Product Specific"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1726
+#: admin/partials/wcdrfc-pro-add-new-page.php:1762
+msgid "Product Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:14
+msgid "Product Type"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:912
+#: admin/partials/wcdrfc-pro-add-new-page.php:1118
+#: admin/partials/wcdrfc-pro-add-new-page.php:1223
+#: admin/partials/wcdrfc-pro-add-new-page.php:1337
+#: admin/partials/wcdrfc-pro-add-new-page.php:1402
+#: admin/partials/wcdrfc-pro-add-new-page.php:1467
+msgid "Product's count"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:911
+#: admin/partials/wcdrfc-pro-add-new-page.php:1336
+msgid "Product's quantity"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1117
+#: admin/partials/wcdrfc-pro-add-new-page.php:1222
+#: admin/partials/wcdrfc-pro-add-new-page.php:1401
+#: admin/partials/wcdrfc-pro-add-new-page.php:1466
+msgid "Product's quantity (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:35
+msgid ""
+"Provide seasonal discounts to get more conversions like BOGO, Bulk discounts,"
+" etc."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:163
+msgid ""
+"Purchase \"Product X\" and receive another \"Product X\" absolutely free. "
+"Enjoy double the quantity at the price of one."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:267
+msgid ""
+"Purchase 3 to 6 units of \"Product 1\" and automatically receive a $15 "
+"discount at checkout. "
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:59
+msgid ""
+"Purchase 5 or more shirts, set your location to India, and experience "
+"automatic discounts at checkout"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:149
+msgid ""
+"Purchase a specified quantity of a product (buy range) and receive a certain "
+"quantity for free (get specific quantity)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:919
+#: admin/partials/wcdrfc-pro-add-new-page.php:1125
+#: admin/partials/wcdrfc-pro-add-new-page.php:1230
+#: admin/partials/wcdrfc-pro-add-new-page.php:1344
+#: admin/partials/wcdrfc-pro-add-new-page.php:1409
+#: admin/partials/wcdrfc-pro-add-new-page.php:1474
+msgid "Purchase History"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:932
+#: admin/partials/wcdrfc-pro-add-new-page.php:1138
+#: admin/partials/wcdrfc-pro-add-new-page.php:1243
+#: admin/partials/wcdrfc-pro-add-new-page.php:1357
+#: admin/partials/wcdrfc-pro-add-new-page.php:1422
+#: admin/partials/wcdrfc-pro-add-new-page.php:1487
+msgid "Quantity"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:162
+#: admin/partials/wcdrfc-pro-information-page.php:10
+msgid "Quick info"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:36
+msgid "Quick Start"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:63
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:65
+msgid "Quick Tour"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:872
+#: admin/partials/wcdrfc-pro-add-new-page.php:1599
+#: admin/partials/wcdrfc-pro-add-new-page.php:1754
+#: admin/partials/wcdrfc-pro-add-new-page.php:1911
+#: admin/partials/wcdrfc-pro-add-new-page.php:2069
+#: admin/partials/wcdrfc-pro-add-new-page.php:2231
+#: admin/partials/wcdrfc-pro-add-new-page.php:2400
+#: admin/partials/wcdrfc-pro-add-new-page.php:2559
+#: admin/partials/wcdrfc-pro-add-new-page.php:2713
+#: admin/partials/wcdrfc-pro-add-new-page.php:2866
+#: admin/partials/wcdrfc-pro-add-new-page.php:3027
+msgid "rule match"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:699
+msgid "Sale products"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:661
+msgid "Saturday"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-list-page.php:889
+msgid "Search"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:85
+msgid "Search Engine"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-list-page.php:880
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:164
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:195
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:220
+msgid "Select a Category"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2078
+#: admin/partials/wcdrfc-pro-add-new-page.php:3036
+msgid ""
+"Select a category to apply the discount amount to when the min/max quantity "
+"match."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2409
+msgid ""
+"Select a category to apply the discount amount to when the min/max weight "
+"match."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:156
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:193
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:218
+msgid "Select a Country"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:171
+msgid "Select a Coupon"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:176
+msgid "Select a Payment Gateway"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:161
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:162
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:194
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:219
+msgid "Select a Product"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:569
+msgid "Select a product on which, We will apply price adjustment."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1608
+msgid ""
+"Select a product to apply the discount amount to when the min/max quantity "
+"match."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1920
+msgid ""
+"Select a product to apply the discount amount to when the min/max weight "
+"match."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:174
+msgid "Select a Shipping Class"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:175
+msgid "Select a Shipping Method"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:166
+msgid "Select a SKU"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:158
+msgid "Select a State"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:165
+msgid "Select a Tag"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:168
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:196
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:221
+msgid "Select a User"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:169
+msgid "Select a User Role"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:163
+msgid "Select a Variable Product"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:160
+msgid "Select a Zone"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2369
+msgid "Select Category"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:149
+msgid "Select category"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:537
+msgid ""
+"Select category on which, We will apply price adjustment on all products of "
+"this category"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:644
+msgid ""
+"Select days on which day discount will enable on the website. This rule "
+"match with current day which is set by wordpress "
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:402
+msgid "Select discount type"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:611
+msgid "Select end date"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:631
+msgid "Select end time"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:607
+msgid ""
+"Select ending date which date product discount rules will disable on website"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:83
+msgid "Select One"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:150
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:200
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:225
+msgid "Select product"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:167
+msgid "Select Product Attribute"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:601
+msgid "Select start date"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:597
+msgid ""
+"Select start date which date product discount rules will enable on website."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:629
+msgid "Select start time"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:620
+msgid ""
+"Select time on which time product discount rules will enable on the website. "
+"This rule match with current time which is set by wordpress "
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:523
+msgid "Select type of price adjustment on product/category."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:30
+msgid "Set any number of discounts rules for your WooCommerce store"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:97
+msgid ""
+"Set conditional product fees based on user roles such as consumer, seller, "
+"shop manager, premium customer, and more."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:82
+msgid ""
+"Set customized discounts based on customer location, creating personalized "
+"shopping experiences. Maximize conversions and delight customers with "
+"targeted pricing strategies."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:131
+#: includes/class-woocommerce-dynamic-pricing-and-discount.php:303
+msgid "Settings"
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:215
+msgid "Shipping"
+msgid_plural "Shipping %d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:935
+#: admin/partials/wcdrfc-pro-add-new-page.php:1360
+#: admin/partials/wcdrfc-pro-add-new-page.php:3035
+msgid "Shipping Class"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1141
+#: admin/partials/wcdrfc-pro-add-new-page.php:1246
+#: admin/partials/wcdrfc-pro-add-new-page.php:1425
+#: admin/partials/wcdrfc-pro-add-new-page.php:1490
+msgid "Shipping Class (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:941
+#: admin/partials/wcdrfc-pro-add-new-page.php:1366
+msgid "Shipping Method"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1147
+#: admin/partials/wcdrfc-pro-add-new-page.php:1252
+#: admin/partials/wcdrfc-pro-add-new-page.php:1431
+#: admin/partials/wcdrfc-pro-add-new-page.php:1496
+msgid "Shipping Method (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:940
+#: admin/partials/wcdrfc-pro-add-new-page.php:1146
+#: admin/partials/wcdrfc-pro-add-new-page.php:1251
+#: admin/partials/wcdrfc-pro-add-new-page.php:1365
+#: admin/partials/wcdrfc-pro-add-new-page.php:1430
+#: admin/partials/wcdrfc-pro-add-new-page.php:1495
+msgid "Shipping Specific"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:942
+#: admin/partials/wcdrfc-pro-add-new-page.php:1367
+msgid "Shipping Total"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1148
+#: admin/partials/wcdrfc-pro-add-new-page.php:1253
+#: admin/partials/wcdrfc-pro-add-new-page.php:1432
+#: admin/partials/wcdrfc-pro-add-new-page.php:1497
+msgid "Shipping Total (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:136
+msgid ""
+"Shop \"Product 1\" now and enjoy a 10% discount when purchasing 5 or more "
+"units. Save big on bulk orders and stock up on your favorite items!"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:58
+msgid ""
+"Shop in India and save big on \"Product 1\" with our exclusive bulk discount "
+"offer. Purchase 5 or more units of \"Product 1,\" and the discounted prices "
+"will be automatically applied at checkout."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:268
+msgid ""
+"Shop now and when your cart subtotal falls between $125 to $180, you'll "
+"automatically receive a $25 discount."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:162
+msgid ""
+"Shop now with any combination of \"Product 1\", \"Product 2\", or \"Product "
+"3\" in your cart, totaling 3 to 6 items. If your shipping country is India, "
+"you'll receive a complimentary \"Product 1\" added automatically with 1 "
+"quantity."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:172
+msgid "Shop Plugins"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:84
+msgid "Social Media"
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1656
+msgid "Something went wrong"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:53
+msgid "Start Date"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:596
+msgid "Start date"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:902
+#: admin/partials/wcdrfc-pro-add-new-page.php:1327
+msgid "State"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1108
+#: admin/partials/wcdrfc-pro-add-new-page.php:1213
+#: admin/partials/wcdrfc-pro-add-new-page.php:1392
+#: admin/partials/wcdrfc-pro-add-new-page.php:1457
+msgid "State (Available in PRO)"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:55
+#: admin/partials/wcdrfc-pro-add-new-page.php:376
+msgid "Status"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:37
+msgid "Step 1"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:46
+msgid "Step 2"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:54
+msgid "Step 3"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:16
+msgid ""
+"Store owners can create Conditional Discount Rules in your WooCommerce store "
+"easily. you can set different discount rules as per below:"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:274
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:33
+msgid "Suggest"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:655
+msgid "Sunday"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:28
+#: includes/class-woocommerce-dynamic-pricing-and-discount.php:305
+msgid "Support"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:42
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:910
+#: admin/partials/wcdrfc-pro-add-new-page.php:1335
+msgid "Tag"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1116
+#: admin/partials/wcdrfc-pro-add-new-page.php:1221
+#: admin/partials/wcdrfc-pro-add-new-page.php:1400
+#: admin/partials/wcdrfc-pro-add-new-page.php:1465
+msgid "Tag (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:71
+msgid ""
+"Targeted discounts: Set custom rules based on location for personalized "
+"shopping experiences."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:744
+msgid "Text Color"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-list-page.php:108
+msgid "There was an error with deleting data."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1617
+msgid "There was an error with saving data."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:1619
+msgid "There was an error with security check."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:725
+msgid ""
+"This discount message will visible to the customer at the product details "
+"page below addd to cart button."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:392
+msgid ""
+"This discount rule title is visible to the customer at the time of checkout."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:377
+msgid "This discount will be visible to customers only if it is enabled."
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:27
+msgid "This product is protected and cannot be purchased."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:140
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:186
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:211
+#: admin/partials/wcdrfc-pro-add-new-page.php:1014
+msgid ""
+"This rule will only work if you have selected any one Product Specific "
+"option."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:141
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:187
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:212
+#: admin/partials/wcdrfc-pro-add-new-page.php:1020
+#: admin/partials/wcdrfc-pro-add-new-page.php:1189
+#: admin/partials/wcdrfc-pro-add-new-page.php:1294
+msgid ""
+"This rule will work if you have selected any one Product Specific option or "
+"it will apply to all products."
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:89
+msgid ""
+"This setting will only work for product adjustment discount type and it will "
+"apply only for all same rule matched."
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:53
+msgid "This setting will only work for product adjustment discount type."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:20
+msgid "Three Benefits for Upgrading to Premium"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:659
+msgid "Thursday"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:617
+msgid "Time"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:226
+msgid "Time-Based Discounts"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:622
+#: admin/partials/wcdrfc-pro-add-new-page.php:646
+msgid "Timezone"
+msgstr ""
+
+#: admin/partials/class-wc-discount-rules-table.php:50
+msgid "Title"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:84
+msgid ""
+"To take advantage of the exclusive discounts for customers in \"India\", "
+"simply choose India as your shipping country during checkout. Our system "
+"will automatically apply the special discounted prices to your order."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:110
+msgid "Total"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2532
+#: admin/partials/wcdrfc-pro-add-new-page.php:2567
+msgid "Total Cart Qty"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2836
+#: admin/partials/wcdrfc-pro-add-new-page.php:2874
+msgid "Total Cart Subtotal"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2685
+#: admin/partials/wcdrfc-pro-add-new-page.php:2721
+msgid "Total Cart Weight"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:920
+#: admin/partials/wcdrfc-pro-add-new-page.php:1346
+msgid "Total order spent (all time)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1127
+#: admin/partials/wcdrfc-pro-add-new-page.php:1232
+#: admin/partials/wcdrfc-pro-add-new-page.php:1411
+#: admin/partials/wcdrfc-pro-add-new-page.php:1476
+msgid "Total order spent (all time) (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:657
+msgid "Tuesday"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:522
+msgid "Type of apply"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:134
+msgid ""
+"Unlock percentage discounts with flexible conditional rules. Personalize "
+"offers based on product's quantity, user details, and more."
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:123
+msgid ""
+"Unlock personalized discounts with our conditional percentage discount "
+"feature"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:40
+msgid "Unlock Premium Features"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:53
+msgid "Update"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:54
+#: admin/partials/header/plugin-header.php:62
+msgid "Upgrade"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:280
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:915
+#: admin/partials/wcdrfc-pro-add-new-page.php:1121
+#: admin/partials/wcdrfc-pro-add-new-page.php:1226
+#: admin/partials/wcdrfc-pro-add-new-page.php:1340
+#: admin/partials/wcdrfc-pro-add-new-page.php:1405
+#: admin/partials/wcdrfc-pro-add-new-page.php:1470
+msgid "User"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:917
+#: admin/partials/wcdrfc-pro-add-new-page.php:1342
+msgid "User Email"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1123
+#: admin/partials/wcdrfc-pro-add-new-page.php:1228
+#: admin/partials/wcdrfc-pro-add-new-page.php:1407
+#: admin/partials/wcdrfc-pro-add-new-page.php:1472
+msgid "User Email (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:958
+msgid "User Name ( john.doe )"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:923
+#: admin/partials/wcdrfc-pro-add-new-page.php:1348
+msgid "User repeat product"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1129
+#: admin/partials/wcdrfc-pro-add-new-page.php:1234
+#: admin/partials/wcdrfc-pro-add-new-page.php:1413
+#: admin/partials/wcdrfc-pro-add-new-page.php:1478
+msgid "User repeat product (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:916
+#: admin/partials/wcdrfc-pro-add-new-page.php:1341
+msgid "User Role"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1122
+#: admin/partials/wcdrfc-pro-add-new-page.php:1227
+#: admin/partials/wcdrfc-pro-add-new-page.php:1406
+#: admin/partials/wcdrfc-pro-add-new-page.php:1471
+msgid "User Role (Available in PRO)"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:95
+msgid "User Role-Based Discount"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:914
+#: admin/partials/wcdrfc-pro-add-new-page.php:1120
+#: admin/partials/wcdrfc-pro-add-new-page.php:1225
+#: admin/partials/wcdrfc-pro-add-new-page.php:1339
+#: admin/partials/wcdrfc-pro-add-new-page.php:1404
+#: admin/partials/wcdrfc-pro-add-new-page.php:1469
+msgid "User Specific"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:908
+#: admin/partials/wcdrfc-pro-add-new-page.php:1333
+msgid "Variable Product"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1114
+#: admin/partials/wcdrfc-pro-add-new-page.php:1219
+#: admin/partials/wcdrfc-pro-add-new-page.php:1398
+#: admin/partials/wcdrfc-pro-add-new-page.php:1463
+msgid "Variable Product (Available in PRO)"
+msgstr ""
+
+#: woocommerce/includes/wc-cart-functions.php:119
+msgid "View Cart"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-get-started-page.php:55
+msgid ""
+"View Conditional Discount Ruless applied on the checkout page as per below."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:513
+msgid "We can provide percentage of discount adjustment of product price."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:658
+msgid "Wednesday"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1358
+msgid "Weight"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:933
+msgid "Weight "
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1139
+#: admin/partials/wcdrfc-pro-add-new-page.php:1244
+#: admin/partials/wcdrfc-pro-add-new-page.php:1423
+#: admin/partials/wcdrfc-pro-add-new-page.php:1488
+msgid "Weight (Available in PRO) "
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:23
+msgid "Welcome! 🤗"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:56
+msgid ""
+"With our plugin, you have the freedom to set up advanced fee rules using "
+"category, country, coupon code, and more. Enjoy the flexibility and enhance "
+"your customers' shopping experience!"
+msgstr ""
+
+#: woo-conditional-discount-rules-for-checkout.php:426
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-information-page.php:15
+msgid "WooCommerce Plugin"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:81
+msgid "Would you mind telling how did you hear about us?"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:90
+msgid "WP Mayor"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:88
+msgid "WPBeginner"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:92
+msgid "WPExplorer"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:87
+msgid "WPLift"
+msgstr ""
+
+#: admin/partials/wcdrfc-general-settings.php:83
+#: admin/partials/wcdrfc-general-settings.php:93
+#: admin/partials/wcdrfc-general-settings.php:103
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:41
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:49
+msgid "Yes, count me in!"
+msgstr ""
+
+#: admin/partials/wcdrfc-plugin-setup-wizard.php:76
+msgid "You are all set, almost!"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:479
+msgid "You can add a discount here to be charged for each additional quantity."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:774
+msgid ""
+"You can choose products on whcih BOGO discount will apply where you need to "
+"enter the min/max ranges and choose free item with quantity."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:403
+msgid ""
+"You can give discount on fixed price, percentage, BOGO(Buy One Get One) and "
+"Adjustment type."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:700
+msgid "You can include/exclude sale product from discount rules"
+msgstr ""
+
+#: admin/partials/wcdrfc-upgrade-dashboard.php:160
+msgid ""
+"You can offer extra charges to your customer based on the order amount for "
+"the free shipping option."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2086
+msgid ""
+"You can set a maximum category quantity per row before the discount amount "
+"is applied.<br/>Leave empty to not set a maximum."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2247
+msgid ""
+"You can set a maximum category subtotal per row before the discount amount "
+"is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2417
+msgid ""
+"You can set a maximum category weight per row before the discount amount is "
+"applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1616
+msgid ""
+"You can set a maximum product quantity per row before the discount amount is "
+"applied.<br/>Leave empty to not set a maximum."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1770
+msgid ""
+"You can set a maximum product subtotal per row before the discount amount is "
+"applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1928
+msgid ""
+"You can set a maximum product weight per row before the discount amount is "
+"applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:3044
+msgid ""
+"You can set a maximum shipping class subtotal per row before the discount "
+"amount is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2575
+msgid ""
+"You can set a maximum total cart quantity per row before the discount amount "
+"is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2882
+msgid ""
+"You can set a maximum total cart subtotal per row before the discount amount "
+"is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2729
+msgid ""
+"You can set a maximum total cart weight per row before the discount amount "
+"is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2082
+msgid ""
+"You can set a minimum category quantity per row before the discount amount "
+"is applied.<br/>Leave empty to not set a minimum."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2243
+msgid ""
+"You can set a minimum category subtotal per row before the discount amount "
+"is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2413
+msgid ""
+"You can set a minimum category weight per row before the discount amount is "
+"applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1612
+msgid ""
+"You can set a minimum product quantity per row before the discount amount is "
+"applied.<br/>Leave empty to not set a minimum."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1766
+msgid ""
+"You can set a minimum product subtotal per row before the discount amount is "
+"applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1924
+msgid ""
+"You can set a minimum product weight per row before the discount amount is "
+"applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:3040
+msgid ""
+"You can set a minimum shipping class subtotal per row before the discount "
+"amount is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2571
+msgid ""
+"You can set a minimum total cart quantity per row before the discount amount "
+"is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2878
+msgid ""
+"You can set a minimum total cart subtotal per row before the discount amount "
+"is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:2725
+msgid ""
+"You can set a minimum total cart weight per row before the discount amount "
+"is applied."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1584
+#: admin/partials/wcdrfc-pro-add-new-page.php:1738
+#: admin/partials/wcdrfc-pro-add-new-page.php:1896
+#: admin/partials/wcdrfc-pro-add-new-page.php:2054
+#: admin/partials/wcdrfc-pro-add-new-page.php:2215
+#: admin/partials/wcdrfc-pro-add-new-page.php:2384
+#: admin/partials/wcdrfc-pro-add-new-page.php:2544
+#: admin/partials/wcdrfc-pro-add-new-page.php:2697
+#: admin/partials/wcdrfc-pro-add-new-page.php:2850
+#: admin/partials/wcdrfc-pro-add-new-page.php:3010
+msgid ""
+"You can turn off this button, if you do not need to apply this discount "
+"amount."
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:504
+msgid "You must add percentage of discount for product price adjustment."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:143
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:189
+#: admin/class-woocommerce-dynamic-pricing-and-discount-admin.php:214
+msgid ""
+"You need to select product specific option in Discount Rules for product "
+"based option"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:904
+#: admin/partials/wcdrfc-pro-add-new-page.php:1329
+msgid "Zone"
+msgstr ""
+
+#: admin/partials/wcdrfc-pro-add-new-page.php:1110
+#: admin/partials/wcdrfc-pro-add-new-page.php:1215
+#: admin/partials/wcdrfc-pro-add-new-page.php:1394
+#: admin/partials/wcdrfc-pro-add-new-page.php:1459
+msgid "Zone (Available in PRO)"
+msgstr ""

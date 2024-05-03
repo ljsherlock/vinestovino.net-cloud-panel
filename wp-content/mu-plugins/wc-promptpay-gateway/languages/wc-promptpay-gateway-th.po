@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Promptpay Gateway\n"
+"POT-Creation-Date: 2018-06-17 07:49+0700\n"
+"PO-Revision-Date: 2018-06-17 07:53+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-promptpay-gateway.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wc-promptpay-gateway.php:36
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: wc-promptpay-gateway.php:66
+msgid "Promptpay"
+msgstr "พร้อมเพย์"
+
+#: wc-promptpay-gateway.php:99
+msgid "Enable/Disable"
+msgstr "ใช้งาน/ไม่ใช้งาน"
+
+#: wc-promptpay-gateway.php:101
+msgid "Enable Promptpay Checkout"
+msgstr "เปิดใช้งานการชำระเงิน Promptpay"
+
+#: wc-promptpay-gateway.php:105
+msgid "Title"
+msgstr "หัวข้อ"
+
+#: wc-promptpay-gateway.php:107
+msgid "This controls the title which the user sees during checkout."
+msgstr "ลูกค้าจะเห็นข้อความนี้ในหน้าชำระเงิน."
+
+#: wc-promptpay-gateway.php:108
+msgid "Promptpay payment"
+msgstr "ชำระเงินด้วยพร้อมเพย์"
+
+#: wc-promptpay-gateway.php:112 wc-promptpay-gateway.php:118
+msgid "Select type of promptpay"
+msgstr "เลือกประเภทของพร้อมเพย์"
+
+#: wc-promptpay-gateway.php:115
+msgid "Mobile"
+msgstr "หมายเลขโทรศัพท์"
+
+#: wc-promptpay-gateway.php:116
+msgid "ID Card"
+msgstr "หมายเลขบัตรประชาชน"
+
+#: wc-promptpay-gateway.php:122 wc-promptpay-gateway.php:124
+msgid "Promptpay Number"
+msgstr "หมายเลขพร้อมเพย์"
+
+#: wc-promptpay-gateway.php:126
+msgid "Please input number only"
+msgstr ""
+
+#: wc-promptpay-gateway.php:129
+msgid "Description"
+msgstr "รายละเอียด"
+
+#: wc-promptpay-gateway.php:131
+msgid "Pay securely with Promtpay Payment Gateway"
+msgstr "ชำระเงินอย่างปลอดภัยด้วย Promtpay Payment Gateway"
+
+#: wc-promptpay-gateway.php:132
+msgid "This controls the description which the user sees during checkout"
+msgstr "ข้อความแสดงให้ลูกค้าเห็นขณะจ่ายเงิน"
+
+#: wc-promptpay-gateway.php:147
+msgid "Promptpay Checkout"
+msgstr "ชำระเงินด้วยพร้อมเพย์"
+
+#: wc-promptpay-gateway.php:167
+msgid "Awaiting Promptpay payment"
+msgstr "กำลังรอการชำระเงินด้วย Promptpay"
+
+#. Plugin Name of the plugin/theme
+msgid "WC Promptpay Gateway"
+msgstr "ระบบชำระเงินด้วยพร้อมเพย์"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://boostpress.com/"
+msgstr "http://boostpress.com/"
+
+#. Description of the plugin/theme
+msgid "Promptpay payment for WooCommerce"
+msgstr "การชำระเงิน Promptpay สำหรับ WooCommerce"
+
+#. Author of the plugin/theme
+msgid "Boostpress"
+msgstr "Boostpress"
